@@ -1,0 +1,25 @@
+# Node.js related files
+node_modules/
+.next/
+yarn.lock
+package-lock.json
+
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.Python
+static/*.pdf
+static/*.zip
+static/pdfs/
+
+# Environment variables and config files
+*.env
+.env.*
+
+# Docker and system files
+*.DS_Store
+docker-compose.yml
+Dockerfile
