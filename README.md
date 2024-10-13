@@ -3,6 +3,8 @@
 ## Overview
 This project allows users to convert URLs to PDFs through a FastAPI backend and a Next.js frontend. The backend handles the generation of PDFs using Selenium, while the frontend provides the user interface.
 
+The frontend is built using v0 (https://v0.dev/docs), the backend logic is built using ChatGPT (https://chatgpt.com/). 
+
 ---
 ## Layout Overview
 ![Page Layout](assets/page_layout.jpg)
