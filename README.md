@@ -4,6 +4,8 @@
 This project allows users to convert URLs to PDFs through a FastAPI backend and a Next.js frontend. The backend handles the generation of PDFs using Selenium, while the frontend provides the user interface.
 
 ---
+## Layout Overview
+![Page Layout](assets/page_layout.jpg)
 
 ## Requirements
 
